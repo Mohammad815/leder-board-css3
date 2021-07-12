@@ -1,0 +1,15 @@
+/* Main Section */
+/* Top Player */
+.top-player{
+
+}
+.players{
+    display: flex;
+}
+.player {
+    display: flex;
+    align-items: center;
+}
+.player img{
+    width: 56px;
+}
