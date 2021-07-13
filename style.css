@@ -111,4 +111,11 @@ hr{
     .player, .blog{
         flex-direction: column;
     }
+    .courses{
+        grid-template-columns: repeat(2,1fr);
+    }
+    
+    .top-blogs, .top-player{
+        text-align: center;
+    }
 }
